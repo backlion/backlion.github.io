@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Penetration Test Engineer 
+Security Research
 
 More to learn
 
-
-The longest journey begins with the first step.
+[+] 100 posts done  :D
 
 
 
@@ -20,8 +19,6 @@ Drops:    backlion
 Twitter:  [backlion](https://twitter.com/backlion)
 
 Github:   [backlion](https://github.com/backlion)
-
-Blog  :[backlion](http://www.cnblogs.com/backlion)
 
 
 
