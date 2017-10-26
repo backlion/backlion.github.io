@@ -1,10 +1,10 @@
  
 
-##0x00前言
+## 0x00前言
 
 今天国外安全研究人员公布了一个通过SCF文件使用NTLM身份验证中的错误来偷取远程服务器的Window NTLM，该漏洞现在已被公开，通过下载微软的补丁可以解决，其补丁下载地址：https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/313ae481-3088-e711-80e2-000d3a32fc99，这里我简单的复现了该漏洞利用情况！
 
-##0x01漏洞复现
+## 0x01漏洞复现
 
 **漏洞原理**
 
@@ -103,7 +103,7 @@ The Hash攻击
 ![](http://upload-images.jianshu.io/upload_images/8689220-b14bf9664c8b3357.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-##0x02参考
+## 0x02参考
 
 http://www.sysadminjd.com/adv170014-ntlm-sso-exploitation-guide/
 
